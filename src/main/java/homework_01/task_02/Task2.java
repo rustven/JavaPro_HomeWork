@@ -6,5 +6,6 @@ public class Task2 {
         // Код задачи 2 ДЗ 1
         //hsjfgjdfjdfjd
         //jjgfjf
+        // -----------------
     }
 }
